@@ -1,7 +1,7 @@
 # Protect The Ocean
 Trải nghiệm trò chơi tại đây: https://nguyenngochai.itch.io/protect-the-ocean
 
-## AC30200 - Trò chơi số và tương tác 2 (HUST)
+## AC3020 - Trò chơi số và tương tác 2 (HUST)
 Sản phẩm báo cáo cuối kì học phần Trò chơi số và tương tác II (AC3020) học kì 2025.1, Đại học Bách khoa Hà Nội.
 
 ## Đề tài
